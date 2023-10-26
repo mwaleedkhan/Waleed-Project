@@ -6,7 +6,7 @@ int main()
 {
 	string students; 
 	char choice;
-	cout << "Waleed Program" << endl;
+	cout << "Waleed Program  " << endl;
 	do 
 	{
 		string currentStudent;
