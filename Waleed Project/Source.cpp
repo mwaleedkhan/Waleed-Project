@@ -16,7 +16,7 @@ int main()
 		students.append(currentStudent);
 		students.append("\n");
 
-		cout << "Want to Continue Entering Press Y/y: ";
+		cout << "To Continue Entering Press Y/y: ";
 		cin >> choice; 
 		cin.ignore();
 
