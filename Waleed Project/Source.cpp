@@ -6,11 +6,11 @@ int main()
 {
 	string students; 
 	char choice;
-
+	cout << "Waleed Program" << endl;
 	do 
 	{
 		string currentStudent;
-		cout << "Enter Student Name: ";
+		cout << "Enter Student Name:  ";
 		getline(cin, currentStudent);
 		cin.ignore();
 		students.append(currentStudent);
